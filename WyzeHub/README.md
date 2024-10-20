@@ -22,7 +22,7 @@ Support is currently limiited to devices I have on hand. Devices will be added a
 
 In process of submitting...
 
-## Installtion (Manual Method)
+## Installation (Manual Method)
 1. Back up your hub or live dangerously.
 
 2. Install the App. In Hubitat, access the _Apps Code_ menu. Click _New App_ then _Import_. Paste the RAW URL to the WyzeHub App: 
